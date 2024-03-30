@@ -1,6 +1,3 @@
-Below is a README for your Flask-based API project, "insights-dashboard-api":
-
----
 
 # insights-dashboard-api
 
